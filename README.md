@@ -9,6 +9,9 @@ Early Detection Of Glaucoma Using Deep Learning. The binary classification is do
 ## Notebook link
 https://github.com/Eman92003/Optiscan360/blob/main/Glaucoma_detection.ipynb
 
+## Tasks PDF
+https://github.com/Eman92003/Optiscan360/blob/main/optiscan360.pdf
+
 ## Author
 [Eman Yaser](https://github.com/Eman92003)
 
