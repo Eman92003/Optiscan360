@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
+Glaucoma is a common eye condition where the optic nerve, which connects the eye to the brain, becomes damaged and can cause sight loss.So, in our project, we will make:
+Early Detection Of Glaucoma Using Deep Learning. The binary classification is done using fundus image which is an ocular documentation that records the appearance of a patient’s retina and optic nerve.
 
-This project is a starting point for a Flutter application.
+## Notebook link
+https://github.com/Eman92003/Optiscan360/blob/main/Glaucoma_detection.ipynb
 
-A few resources to get you started if this is your first Flutter project:
+## Author
+[Eman Yaser](https://github.com/Eman92003)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Ahmed Ashraf](https://github.com/Ghost301333)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Alaa Amer](https://github.com/AlaaMohamedAmer)
